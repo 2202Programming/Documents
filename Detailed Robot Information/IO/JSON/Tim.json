@@ -1,1 +1,17 @@
-{"Version":"v.0.1.0","Name":"Tim","ValueDictionary":{"FRONTLEFTMOTOR":"0","FRONTRIGHTMOTOR":"1","BACKLEFTMOTOR":"2","BACKRIGHTMOTOR":"3"}}
+{
+    "Version": "v.0.1.1",
+    "Name": "Tim",
+    "ValueDictionary": {
+        "FRONTLEFTMOTOR": "1",
+        "FRONTRIGHTMOTOR": "3",
+        "BACKLEFTMOTOR": "2",
+        "BACKRIGHTMOTOR": "4",
+        "SHOOTERMOTORONE": "5",
+        "SHOOTERMOTORTWO": "6",
+        "ELEVATORMOTOR": "7",
+        "SAFESOLENOID": "1",
+        "FIRESOLENOID": "2",
+        "ELEVATORHIGH": "1",
+        "ELEVATORLOW": "2"
+    }
+}
