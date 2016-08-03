@@ -1,4 +1,4 @@
-# Things to Know
+# What Makes a Good Programmers
 
 _v.0.1.0_
 

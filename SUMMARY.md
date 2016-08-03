@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Programming](programming.md)
     * [Git Flow](Workflow/BranchStructure.md)
-    * [Things To Know](Workflow/ThingsToKnow.md)
+    * [Good Programmers](Workflow/ThingsToKnow.md)
     * [Software](software.md)
 * [Controller Layouts](controller-layouts.md)
     * [Hoenheim](Detailed Robot Information/Controller Layouts/Hoenheim.md)
