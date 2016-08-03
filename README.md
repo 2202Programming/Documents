@@ -1,2 +1,8 @@
 # Documents
-A public holder for all of our programming related documents.
+
+_v.0.1-a_
+
+---
+
+A online group document of a whole bunch of important information about our team,
+
