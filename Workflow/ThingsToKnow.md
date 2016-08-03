@@ -1,7 +1,8 @@
 # Things to Know
-*v.0.1.0*
 
-***
+_v.0.1.0_
+
+---
 
 ## People First
 
@@ -9,7 +10,7 @@ The best programmers that I’ve known put people first. They’ve realized that
 
 ## Appetite for Learning
 
-Amazing programmers are ridiculously hungry for knowledge. They’re always telling you about something new or interesting. They tend to read a ton (whether online or offline) and they tend to love to try things out and learn from experiences as well. They’re not afraid of trying out new languages or new platforms.
+Amazing programmers are ridiculously hungry for knowledge. They’re always telling you about something new or interesting. They tend to read a ton \(whether online or offline\) and they tend to love to try things out and learn from experiences as well. They’re not afraid of trying out new languages or new platforms.
 
 ## Skillful at Problem Pattern Matching
 
@@ -24,3 +25,4 @@ My brother took a Python class his Senior year of high school, and when I asked 
 ## Persistent
 
 Software development is pretty much always slower than anyone wants it to be. It takes time. Sometimes you have to just be patient enough to crank out the code you need to write. Sometimes as developers we get to write really fun code, but sometimes we get the displeasure of writing a lot of code that we’ve basically written a hundred times before. I think the best developers keep going because they can see the big picture of what they’re working on and they love the process of building that end result piece by piece.
+
