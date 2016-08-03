@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Programming](programming.md)
-    * [Branch Structure](Workflow/BranchStructure.md)
+    * [Git Flow](Workflow/BranchStructure.md)
     * [Things To Know](Workflow/ThingsToKnow.md)
     * [Software](software.md)
 * [Controller Layouts](controller-layouts.md)
