@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Workflow
+* [Workflow](workflow.md)
     * [Branch Structure](Workflow/BranchStructure.md)
     * [Things To Know](Workflow/ThingsToKnow.md)
 * [Controller Layouts](controller-layouts.md)
