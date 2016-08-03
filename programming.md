@@ -6,19 +6,18 @@ _v.0.1-a_
 
 ## Summery
 
-
-
 #### Table of Contents
 
 * [Source Control](#source-control)
 
 * [Software](#software)
 
-* [Documentation](#documentation)
+* [Documentation ](#documentation)
 
 * [Schedule](#schedule)
 
 * [Goals](#goals)
+
 
 ## Source Control
 
@@ -29,6 +28,4 @@ _v.0.1-a_
 ## Schedule
 
 ## Goals
-
-
 
