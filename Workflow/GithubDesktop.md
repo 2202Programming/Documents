@@ -1,4 +1,7 @@
 #Github Desktop Installation and Use
+
+_v.0.1.0_
+
 ------
 ##Download and installation
 First, download Github Desktop installer from <a href="https://desktop.github.com/">the Github Desktop website</a>. If
