@@ -91,3 +91,21 @@ branch by clicking on the name of the branch you are currently in and then selec
 
 You can also create a pull request by clicking on the pull request tab on the top right and then filling out the prompted
 information.
+
+___________________________
+##Committing
+Once you have written some code and are reasonably sure that it works, you can commit it. Make sure you are on the "Changes" tab
+(instead of the "History" one), type a title for the commit, and add a description if necessary. Once you are done, click <b>"Commit"
+</b>.
+
+<br>
+<img src="GithubDesktopInstallInstructions/Committing(9).png" width="600px">
+<br>
+
+_________________________
+#Syncing
+They Sync button will automatically get any commits that have been made and put online by others, try to merge both their new
+code and the code you are still writing, and put any commits you have made on a server. It is usually a good idea to sync before you
+start writing code if you are not on your own branch, and to sync once you commit. To Sync, just press the sync button in the top right
+corner. Also, because your computer needs to be connectected to the internet to put these changes online (obviously), you can't sync
+if you are connected to the robot instead of to the internet.
