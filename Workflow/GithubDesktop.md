@@ -91,13 +91,3 @@ branch by clicking on the name of the branch you are currently in and then selec
 
 You can also create a pull request by clicking on the pull request tab on the top right and then filling out the prompted
 information.
-
-__________________________
-##Committing
-After you write some code and are reasonably confident that it probably works, make sure you are on the "Changes" tab (as opposed
-to the "History" tab), and click Commit. Then type a reasonable description for the title of your commit and add a description if
-it warrants one.
-
-____________________________
-##Syncing
-Fancy people who think they know what they are talking about will call this fetching, pulling, pushing
