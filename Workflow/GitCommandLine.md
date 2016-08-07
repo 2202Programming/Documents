@@ -10,10 +10,8 @@ Git is a very common and popular open source tool and becuase of this their are 
 
 #### Basic
 
-* [GitHub Help: ](https://help.github.com/)
+* GitHub Help: GitHubs help page contains information a
 
 
 #### In-Depth Documentations
-
-
 
