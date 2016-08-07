@@ -45,7 +45,7 @@ a cast for your eyeballs because they are about to fall out since you have been 
 you use Github! Helllll no!
 
 Hang in there, its just a few hundred thousand more rods and cones that need to die before your eyes are happy. Click on the
-<b>gear icon</b> in the top right hand corner of the application.
+<b>gear icon</b> in the top right hand corner of the application, and then on <b>"Options"</b>.
 <br>
 <img src="GithubDesktopInstallInstructions/ClickOptions(4).png" width="400px">
 <br>
@@ -73,4 +73,21 @@ your repository on the left first.
 <br>
 
 I think there is a tutorial on how to do everything in command prompt somewhere, but idk where. Sorry! On the bright side you
-can do almost everything else you would need to without it.
+can do almost everything else you would need to without it. Also, you can change the type of command prompt you have in Options.
+I highly recommend Git Bash, but you can do whatever you like.
+
+__________________________
+##Branches
+Once you have read our documentation about what branches are and why we use them, there are a few things you have to remember.
+When you go to write code, everything you do will be in the branch you are in. So if you don't switch out of Master before you
+start typing, bad things will happen.
+
+The branch stuff is located on the top left side of the application, by the repositories section. You can create a new branch by
+clicking on the new branch icon (go figure) and then naming it and selecting what it is branching from. You can also switch your
+branch by clicking on the name of the branch you are currently in and then selecting another one.
+<br>
+<img src="GithubDesktopInstallInstructions/Branching(8).png" width="600px">
+<br>
+
+You can also create a pull request by clicking on the pull request tab on the top right and then filling out the prompted
+information.
