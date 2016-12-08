@@ -6,7 +6,7 @@ _v.0.1-b_
 
 ## Summery
 
-As a wise man once said _repeatedly _"DOCUMENTATION", in order to help with that this document is designed to be a one-stop-shop for everything that one might need to build a robot. From the creation of a basic robot project in eclipse to contributing to the code we store on GitHub and a link to every guide you might ever need. Like all of our stuff will be going forward this is accessible on GitHub so we can work together to make it an even greater guide.
+As a wise man once _repeatedly_ said "DOCUMENTATION", in order to help with that this document is designed to be a one-stop-shop for everything that one might need to build a robot. From the creation of a basic robot project in eclipse to contributing to the code we store on GitHub and a link to every guide you might ever need. Like all of our stuff will be going forward this is accessible on GitHub so we can work together to make it an even greater guide.
 
 #### Table of Contents
 
