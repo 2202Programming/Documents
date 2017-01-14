@@ -1,1 +1,10 @@
 http://www.pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/
+
+Hostname: roboRIO-2202-FRC.local
+Port: 22
+
+User: lvuser
+//blank password
+Pass: 
+
+
