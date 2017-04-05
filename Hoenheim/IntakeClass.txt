@@ -1,0 +1,9 @@
+How to run the Intake class:
+
+To say you want it to be open/closed:
+    -Call the setOpen method and pass in true if and only if you want it to be open
+        -If you close the intake, it will automatically turn it off.
+    -OpeningInProgress will return false as soon as it is at the state you requested
+    
+To say you want it to be intaking/extaking:
+    -Call the isOn method and pass in 1 to intake, 0 to stop, and -1 to extake.
