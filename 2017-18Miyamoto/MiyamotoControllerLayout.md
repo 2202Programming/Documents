@@ -6,17 +6,29 @@ Forward/Backward - Left Stick
 
 Turn - Right Stick
 
+Intake - Right Trigger 
+
+Output - Left Trigger
+
+Slow Output - Left Bumper
+
+Rotate - Right Bumper
+
 Controller 2
 ------------
 Change Lift Position - Left Bumper:Down Right Bumper:Up
 
 Manual Lift Position - Left Trigger:Down Right Trigger:Up
 
-Intake - A
+Reset Lift - Start
 
-Output - B
+Exchange - A
 
-Override - X
+Portal - B
+
+Second Block - Y
+
+Climb - X
 
 Climb Reverse - Press Both Sticks
 
